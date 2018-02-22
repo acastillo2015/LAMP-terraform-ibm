@@ -1,2 +1,2 @@
-softlayer_username = "<ADD-Softlayer-Username-Here>"
-softlayer_api_key = "<ADD-Softlayer-API-KEY-Here>"
+softlayer_username = "1503769"
+softlayer_api_key = "HXLxSysi7ThuxLKKcGSd-yFfeVCkiAE6Mg41hihHArMI"
